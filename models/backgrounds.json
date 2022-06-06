@@ -1,0 +1,64 @@
+{
+    "data": {
+        "experiences": [
+            {
+                "companyName": "System Group",
+                "companyLogo": "https://www.systemgroup.net/wp-content/themes/sg/dist/images/logo.png",
+                "position": "Software Tester and Analyst",
+                "startDate": "2022/05",
+                "endDate": "now",
+				"website": "https://www.systemgroup.net/",
+				"location": "Tehran, Iran"
+            },
+            {
+                "companyName": "Nizek",
+                "companyLogo": "https://quera.org/media/CACHE/images/public/careers/logos/7ac8a974758946218eb8fd00673d51d0/fb7526338947ae92cc61c4a9febb391e.png",
+                "position": "Software Engineer",
+                "startDate": "2021/08",
+                "endDate": "2022/05",
+				"website": "https://www.nizek.com/",
+				"location": "Kuwait, Kuwait"
+            },
+            {
+                "companyName": "FARA IDEA",
+                "companyLogo": "",
+                "position": "Software Engineer",
+                "startDate": "2021/02",
+                "endDate": "2021/08",
+				"website": "http://www.faraaide.ir/",
+				"location": "Mazandaran, Iran"
+            },
+			{
+				"companyName": "ARMO Tech",
+				"companyLogo": "",
+				"position": "Software Engineer",
+				"startDate": "2022/05",
+				"endDate": "2021/08",
+				"website": "http://www.armotech.com/",
+				"location": "Istanbul, Turkey"
+			}
+        ],
+		"educations": [
+			{
+				"schoolName": "Amirkabir University of Technology",
+				"schoolLogo": "https://aut.ac.ir/templates/tmpl_modern01/images/logo_fa.png",
+				"degree": "Master of Science",
+				"fieldOfStudy": "Computer Engineering, Computer Systems Architecture",
+				"startDate": "2021/08",
+				"endDate": "now",
+				"website": "http://www.aut.ac.ir/",
+				"location": "Tehran, Iran"
+			},
+			{
+				"schoolName": "University of Science and Technology",
+				"schoolLogo": "https://mazust.ac.ir/images/Logo-60-white.png",
+				"degree": "Bachelor of Science",
+				"fieldOfStudy": "Computer Engineering, Software Engineering",
+				"startDate": "2015/09",
+				"endDate": "2020/09",
+				"website": "http://www.mazust.ac.ir/",
+				"location": "Mazandaran, Iran"
+			}
+		]
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "data": {
+        "name": "John Doe",
+        "picture": "src/img/profile.jpg",
+        "title": "Software Tester and Analyst at System Group",
+        "email": "<a href=\"mailto:alireza.matani.1376@gmail.com\" />",
+        "linkedin": "<a href=\"https://www.linkedin.com/in/astrica1/\" />"
+    }
+}
