@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    background-color: #f2f2f2;
+    background: url("../img/banner.jpg") repeat;
+    overflow: hidden;
+}
+
+#header > .profile-image-container {
+    float: left;
+    width: 20vw;
+    height: auto;
+    border-radius: 100%;
+    overflow: hidden;
+}
